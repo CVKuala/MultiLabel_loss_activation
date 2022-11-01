@@ -51,7 +51,7 @@ Similar Comparison, except this time the perfromance on MultiLabelMarginLoss is 
 
 A similar Comparison has also been done for CrossEntropyLoss and MultiLabelSoftMarginLoss. Go through the code to evaluate its performance.
 
-# Refernces
+# References
 
 I could not have completed this project without the following material -
 
